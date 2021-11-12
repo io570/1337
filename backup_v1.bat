@@ -4,8 +4,6 @@ CHCP 866
 
 REM Variables
 
-REM чек изменений
-
 SET PGBIN=C:\Program Files\PostgreSQL\10.9-5.1C\bin
 SET PGDATABASE=DB_LH
 SET PGHOST=127.0.0.1
